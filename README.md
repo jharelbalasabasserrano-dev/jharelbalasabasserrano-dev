@@ -1,14 +1,18 @@
 # Hi there, I'm Jharel Serrano 👋
 
-<img width="2560" height="1440" alt="Modern Dev Banner Aesthetic UI" src="https://github.com/user-attachments/assets/50e4a302-efb8-4ed2-976d-77e0e41b7d22" />
+<img width="1952" height="544" alt="Gemini_Generated_Image_vu3ncjvu3ncjvu3n" src="https://github.com/user-attachments/assets/14d5ac18-02ba-4d4d-8b98-c3e593921108" />
+
 
 
 ## About Me 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+Hello! My name is Jhasper B. Serrano, and I am a 24-year-old student from City College of Davao, currently taking up Bachelor of Technical-Vocational Teacher Education major in Computer Programming (BTVTED-CP).
+
+My goal in life is to finish my education and become a professional who can inspire others through teaching and technology. I dream of using my programming knowledge to create projects that help people and improve systems in schools and communities.
 
 - 🌱 Currently learning: Blockchain
 - 📫 How to reach me: jharelbalasabas.serrano@ccd.edu.ph
+
 
 
 ## My Skills 🧠
