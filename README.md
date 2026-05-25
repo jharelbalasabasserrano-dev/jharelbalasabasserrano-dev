@@ -13,7 +13,7 @@ My goal in life is to finish my education and become a professional who can insp
 - 🌱 Currently learning: Blockchain
 - 📫 How to reach me: jharelbalasabas.serrano@ccd.edu.ph
 
-
+<img width="480" height="480" alt="profile" src="https://github.com/user-attachments/assets/ca9fefdb-26f1-4e82-b45a-7e4f3855d523" />
 
 
 ## My Skills 🧠
