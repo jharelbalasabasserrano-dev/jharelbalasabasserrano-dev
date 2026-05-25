@@ -6,7 +6,7 @@
 
 ## About Me 🚀
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="giphy (1)" src="https://github.com/user-attachments/assets/418ddc3b-7307-4312-9b77-f88ef3cb75f6" />
+  <img align="right" top="200" height="300" width="400" alt="giphy (1)" src="https://github.com/user-attachments/assets/418ddc3b-7307-4312-9b77-f88ef3cb75f6" />
 </a>
 Hello! My name is Jharel B. Serrano, and I am a 24-year-old student from City College of Davao, currently taking up Bachelor of Technical-Vocational Teacher Education major in Computer Programming (BTVTED-CP).
 
