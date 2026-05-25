@@ -6,12 +6,13 @@
 
 ## About Me 🚀
 
-Hello! My name is Jhasper B. Serrano, and I am a 24-year-old student from City College of Davao, currently taking up Bachelor of Technical-Vocational Teacher Education major in Computer Programming (BTVTED-CP).
+Hello! My name is Jharel B. Serrano, and I am a 24-year-old student from City College of Davao, currently taking up Bachelor of Technical-Vocational Teacher Education major in Computer Programming (BTVTED-CP).
 
 My goal in life is to finish my education and become a professional who can inspire others through teaching and technology. I dream of using my programming knowledge to create projects that help people and improve systems in schools and communities.
 
 - 🌱 Currently learning: Blockchain
 - 📫 How to reach me: jharelbalasabas.serrano@ccd.edu.ph
+
 
 
 
